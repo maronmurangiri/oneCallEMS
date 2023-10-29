@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "829013516632",
+    "project_id": "comradehealth-d02b4",
+    "storage_bucket": "comradehealth-d02b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829013516632:android:5114b920cca2ab0f48052d",
+        "android_client_info": {
+          "package_name": "com.example.comradehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829013516632-verlohb6h1f3q9ce419erbbu91vd0oac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comradehealth",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "829013516632-og1bbc0qub7373haroes9on93r2h2hrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1lG92SfQ2HI7Y2b1N_aeMS-hYXfeFXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829013516632-og1bbc0qub7373haroes9on93r2h2hrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829013516632-h1coa2aluniafm7p6kffogqro88sjopq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.comradehealth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829013516632:android:562278447466385548052d",
+        "android_client_info": {
+          "package_name": "com.mycompany.comradehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829013516632-5tt90jrgkoaiaaijmer7auqi14ssfsga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.comradehealth",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "829013516632-og1bbc0qub7373haroes9on93r2h2hrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1lG92SfQ2HI7Y2b1N_aeMS-hYXfeFXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829013516632-og1bbc0qub7373haroes9on93r2h2hrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829013516632-h1coa2aluniafm7p6kffogqro88sjopq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.comradehealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
